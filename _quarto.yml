@@ -3,12 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "HuguesLortieForgues.github.io"
+  title: "Hugo Lortie-Forgues"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - papers.qmd
+      - teaching.qmd
+      - talks.qmd
 
 format:
   html:

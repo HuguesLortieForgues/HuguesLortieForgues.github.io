@@ -2,8 +2,14 @@
 title: "Papers"
 ---
 
-About this site
+## Papers
 
-```{r}
-1 + 1
-```
+- Hugo A
+- Hugo B
+- Hugo C
+
+## Proceedings
+
+- Hugo 1
+- Hugo 2
+- Hugo 3

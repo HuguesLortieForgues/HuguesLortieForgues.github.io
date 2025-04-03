@@ -33,5 +33,40 @@
     "title": "Talks",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Hugo A\nHugo B\nHugo C"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "papers.html#papers",
+    "href": "papers.html#papers",
+    "title": "Papers",
+    "section": "",
+    "text": "Hugo A\nHugo B\nHugo C"
+  },
+  {
+    "objectID": "papers.html#proceedings",
+    "href": "papers.html#proceedings",
+    "title": "Papers",
+    "section": "Proceedings",
+    "text": "Proceedings\n\nHugo 1\nHugo 2\nHugo 3"
   }
 ]
