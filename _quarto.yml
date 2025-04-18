@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - text: "Stats Blog"
+        href: https://hugueslortieforgues.github.io/BlogHugo/
 
 format:
   html:
