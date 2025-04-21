@@ -1,6 +1,20 @@
 ---
-title: "HuguesLortieForgues.github.io"
+title: "Hugo Lortie Forgues"
+image: hugo.png
+resources: resume.pdf
+about:
+  template: trestles
+  image-shape: rectangle
+  links:
+    - text: Email
+      icon: envelope
+      url: "mailto:h.lortie-forgues@lboro.ac.uk"
+    - text: CV
+      icon: file-text
+      href: resume.pdf
 ---
+
+
 
 This is a Quarto website.
 

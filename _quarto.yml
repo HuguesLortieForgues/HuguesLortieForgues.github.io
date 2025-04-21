@@ -3,18 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "HuguesLortieForgues.github.io"
+  title: "Hugo Lortie-Forgues"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - text: "Stats Blog"
-        href: https://hugueslortieforgues.github.io/BlogHugo/
+      #- text: "Stats Blog"
+      #  href: https://hugueslortieforgues.github.io/BlogHugo/
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: true
 
