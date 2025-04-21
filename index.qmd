@@ -1,6 +1,6 @@
 ---
 title: "Hugo Lortie Forgues"
-image: hugo.png
+image: hugo.jpg
 resources: CV.pdf
 about:
   template: trestles
