@@ -12,9 +12,6 @@ about:
     - text: CV
       icon: file-text
       url: "CV.pdf"
-    - text: Github
-      icon: github
-      href: https://github.com/HuguesLortieForgues/
 ---
 
 
