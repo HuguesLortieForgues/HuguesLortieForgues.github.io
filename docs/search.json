@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Hugo Lortie Forgues",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I grew up in Québec, Canada, where I completed a Clinical and Research PhD in Psychology at the Université du Québec à Montréal. I then completed a postdoc in the US (Carnegie Mellon University, Pittsburgh), and moved to the UK, where I am now a Senior Lecturer in the Department of Mathematics Education at Loughborough University."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,54 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Hugo Lortie Forgues",
+    "section": "",
+    "text": "I grew up in Québec, Canada, where I completed a Clinical and Research PhD in Psychology at the Université du Québec à Montréal. I then completed a postdoc in the US (Carnegie Mellon University, Pittsburgh), and moved to the UK, where I am now a Senior Lecturer in the Department of Mathematics Education at Loughborough University."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Hugo Lortie Forgues",
+    "section": "Research Interests",
+    "text": "Research Interests\nI am a psychologist interested in how research evidence is produced, evaluated, perceived, and communicated. My research interests include:\n\nHow to communicate statistical numerical information, such as effect sizes and their associated uncertainty, to non-experts.\nHow to make evaluation research, such as large-scale educational RCTs, more informative.\nHow to assess study quality and its impact on research outcomes.\nHow to improve the teaching of mathematical (e.g., fraction arithmetic) and statistical concepts.\n\nAs part of my research, I have developed expertise in a range of experimental (e.g., RCTs) and observational methods (e.g., meta-analysis). Most of my research is done in collaboration with education researchers, economists, and psychologists and has been published in a range of academic outlets such as Educational Researcher, Journal of Educational Psychology, and Psychological Bulletin. Some of my research has also been featured in Nature (see Link)"
+  },
+  {
+    "objectID": "index.html#selected-publication",
+    "href": "index.html#selected-publication",
+    "title": "Hugo Lortie Forgues",
+    "section": "Selected Publication",
+    "text": "Selected Publication\nSio, U. N., & Lortie-Forgues, H. (2024). The impact of creativity training on creative performance: A meta-analytic review and critical evaluation of 5 decades of creativity training studies. Psychological bulletin, 150(5), 554.\nSims, S., Anders, J., Inglis, M., & Lortie-Forgues, H. (2023). Quantifying “promising trials bias” in randomized controlled trials in education. Journal of Research on Educational Effectiveness, 16(4), 663-680.\nLortie-Forgues, H., Sio, U. N., & Inglis, M. (2021). How should educational effects be communicated to teachers?. Educational Researcher, 50(6), 345-354.\nLortie-Forgues, H., & Inglis, M. (2019). Rigorous large-scale educational RCTs are often uninformative: Should we be concerned?. Educational Researcher, 48(3), 158-166."
+  },
+  {
+    "objectID": "index.html#talks",
+    "href": "index.html#talks",
+    "title": "Hugo Lortie Forgues",
+    "section": "Talks",
+    "text": "Talks\nI have been invited to present my research at various institutions (e.g., Royal Statistical Society, Department for Education), universities (e.g., Oxford University, UCL), in different countries (e.g., US, Hong Kong)."
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Hugo Lortie Forgues",
+    "section": "Teaching",
+    "text": "Teaching\nI take teaching very seriously and find it highly rewarding. Most of my teaching is related to statistics and/or research methods. I am currently leading the following modules:\n\nStatistics for Large Data (Mathematics)\nStatistics and Data Analysis (Natural Sciences)\nEvidence in Education (Psychology)\n\nI also co-lead an ESRC advanced statistics module where I teach the use of simulation to calculate statistical power for a range of statistical tests.\nI take supervision work very seriously. I was fortunate early in my career to work with excellent mentors who invested considerable time in supporting my development. I aim to do the same for my supervisees. If you share similar interests and are considering pursuing a PhD, please contact me."
+  },
+  {
+    "objectID": "index.html#consultation",
+    "href": "index.html#consultation",
+    "title": "Hugo Lortie Forgues",
+    "section": "Consultation",
+    "text": "Consultation\nI do weekly statistical consultations during term time and occasionally help organisations with the evaluation of their programs. I have been told that I am very patient and skilled at explaining complex statistical concepts to non-experts, and at helping them clarify what they want to do."
+  },
+  {
+    "objectID": "index.html#admin",
+    "href": "index.html#admin",
+    "title": "Hugo Lortie Forgues",
+    "section": "Admin",
+    "text": "Admin\nI am the research coordinator for my department and am leading our submission to REF2029."
   }
 ]
