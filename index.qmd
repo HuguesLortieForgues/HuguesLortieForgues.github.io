@@ -14,20 +14,18 @@ about:
       url: "CV.pdf"
 ---
 
-
 ## Bio
 
 I grew up in Québec, Canada, where I completed a Clinical and Research PhD in Psychology at the Université du Québec à Montréal. I then completed a postdoc in the US (Carnegie Mellon University, Pittsburgh), and moved to the UK, where I am now a Senior Lecturer in the Department of Mathematics Education at Loughborough University.
-
 
 ## Research Interests
 
 I am a psychologist interested in how research evidence is produced, evaluated, perceived, and communicated. My research interests include:
 
-*	How to communicate statistical numerical information, such as effect sizes and their associated uncertainty, to non-experts.
-* How to make evaluation research, such as large-scale educational RCTs, more informative.
-* How to assess study quality and its impact on research outcomes.
-* How to improve the teaching of mathematical (e.g., fraction arithmetic) and statistical concepts.
+-   How to communicate statistical numerical information, such as effect sizes and their associated uncertainty, to non-experts.
+-   How to make evaluation research, such as large-scale educational RCTs, more informative.
+-   How to assess study quality and its impact on research outcomes.
+-   How to improve the teaching of mathematical (e.g., fraction arithmetic) and statistical concepts.
 
 As part of my research, I have developed expertise in a range of experimental (e.g., RCTs) and observational methods (e.g., meta-analysis). Most of my research is done in collaboration with education researchers, economists, and psychologists and has been published in a range of academic outlets such as Educational Researcher, Journal of Educational Psychology, and Psychological Bulletin. Some of my research has also been featured in Nature (see <a href="https://media.nature.com/original/magazine-assets/d41586-022-01387-7/d41586-022-01387-7.pdf" target="_blank">link</a>)
 
@@ -35,7 +33,7 @@ As part of my research, I have developed expertise in a range of experimental (e
 
 ## Selected Publication
 
-**Lortie-Forgues, H**, Sio, U. N., Inglis, M (accepted). Should We Communicate the Uncertainty of Educational Effects to Teachers?. *Journal of Research on Educational Effectiveness* 
+**Lortie-Forgues, H**, Sio, U. N., Inglis, M (accepted). Should We Communicate the Uncertainty of Educational Effects to Teachers?. *Journal of Research on Educational Effectiveness*
 
 Sio, U. N., & **Lortie-Forgues, H.** (2024). The impact of creativity training on creative performance: A meta-analytic review and critical evaluation of 5 decades of creativity training studies. *Psychological bulletin, 150*(5), 554.
 
@@ -45,18 +43,17 @@ Sims, S., Anders, J., Inglis, M., & **Lortie-Forgues, H.** (2023). Quantifying �
 
 **Lortie-Forgues, H.**, & Inglis, M. (2019). Rigorous large-scale educational RCTs are often uninformative: Should we be concerned?. *Educational Researcher, 48*(3), 158-166.
 
-
 ## Talks
-I have been invited to present my research at various institutions (e.g., Royal Statistical Society, Department for Education), universities (e.g., Oxford University, UCL), in different countries (e.g., US, Hong Kong). 
 
+I have been invited to present my research at various institutions (e.g., Royal Statistical Society, Department for Education), universities (e.g., Oxford University, UCL), in different countries (e.g., US, Hong Kong).
 
 ## Teaching
 
 I take teaching very seriously and find it highly rewarding. Most of my teaching is related to statistics and/or research methods. I am currently leading the following modules:
 
-* Statistics for Large Data (Mathematics)
-* Statistics and Data Analysis (Natural Sciences)
-* Evidence in Education (Psychology)
+-   Statistics for Large Data (Mathematics)
+-   Statistics and Data Analysis (Natural Sciences)
+-   Evidence in Education (Psychology)
 
 I also co-lead an ESRC advanced statistics module where I teach the use of simulation to calculate statistical power for a range of statistical tests.
 
@@ -64,10 +61,10 @@ I also co-lead an ESRC advanced statistics module where I teach the use of simul
 
 I take supervision work very seriously. I was fortunate early in my career to work with excellent mentors who invested considerable time in supporting my development. I aim to do the same for my supervisees. If you share similar interests and are considering pursuing a PhD, please contact me.
 
-
 ## Consultation
+
 I do weekly statistical consultations during term time and occasionally help organisations with the evaluation of their programs. I have been told that I am very patient and skilled at explaining complex statistical concepts to non-experts, and at helping them clarify what they want to do.
 
-
 ## Admin
+
 I am the research coordinator for my department and am co-leading our submission to REF2029.
