@@ -52,7 +52,7 @@ I have been invited to present my research at various institutions (e.g., Royal 
 
 I take teaching very seriously and find it highly rewarding. Most of my teaching is related to statistics and/or research methods. I am currently leading the following modules:
 
--   Statistics for Large Data (Mathematics)
+-   Applied Statistics (Mathematics)
 -   Statistics and Data Analysis (Natural Sciences)
 -   Evidence in Education (Psychology)
 
